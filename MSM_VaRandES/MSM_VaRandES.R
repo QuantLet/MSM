@@ -41,6 +41,7 @@ arrows(3, 0.2, 2.7, 0.05, lwd = 2)
 
 mtext(expression(VaR[alpha]), side = 1, at = 2.42)
 
+# Mark the Expected shortfall
 x = seq(2.42, 4, length = 100)
 y = plognormalLoss(x)
 x = c(0, x, 0)
