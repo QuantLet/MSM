@@ -5,7 +5,7 @@
 #---------------------------------------------------------------------
 # Description:   Plots Value at Risk and Expected Shortfall in one   
 #                figure and shows the relationship between VaR and ES.
---------------------------------------------------------------------- 
+#--------------------------------------------------------------------- 
 # Inputs:        
 # -------------------------------------------------------------------- 
 # Output:        
@@ -14,7 +14,7 @@
 #---------------------------------------------------------------------
 # Keywords:      VaR, expected shortfall, plot, lognormal, pdf, cdf 
 #--------------------------------------------------------------------- 
-# Author:        Torsten Becke, Chen Huang,
+# Author:        Torsten Becker, Chen Huang,
 
 # clear all variables
 rm(list = ls(all = TRUE))
