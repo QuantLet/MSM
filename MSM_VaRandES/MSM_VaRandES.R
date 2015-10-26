@@ -14,7 +14,7 @@
 #---------------------------------------------------------------------
 # Keywords:      VaR, expected shortfall, plot, lognormal, pdf, cdf 
 #--------------------------------------------------------------------- 
-# Author:        Torsten Becker, Chen Huang,
+# Author:        Torsten Becker, Viktor Sandor, Chen Huang,
 
 # clear all variables
 rm(list = ls(all = TRUE))
