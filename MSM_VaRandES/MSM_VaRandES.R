@@ -1,21 +1,3 @@
-#--------------------------------------------------------------------- 
-# Quantlet:      MSM_VaRandES
-#---------------------------------------------------------------------
-# Published in:  MSM
-#---------------------------------------------------------------------
-# Description:   Plots Value at Risk and Expected Shortfall in one   
-#                figure and shows the relationship between VaR and ES.
-#--------------------------------------------------------------------- 
-# Inputs:        
-# -------------------------------------------------------------------- 
-# Output:        
-#---------------------------------------------------------------------  
-# See also:      
-#---------------------------------------------------------------------
-# Keywords:      VaR, expected shortfall, plot, lognormal, pdf, cdf 
-#--------------------------------------------------------------------- 
-# Author:        Torsten Becker, Viktor Sandor, Chen Huang,
-
 # clear all variables
 rm(list = ls(all = TRUE))
 graphics.off()
