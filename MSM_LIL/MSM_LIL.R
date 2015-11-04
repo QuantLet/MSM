@@ -1,26 +1,3 @@
-# --------------------------------------------------------------------- 
-# Quantlet:      Law of Iterated Logarithm
-# ---------------------------------------------------------------------
-# Published in:
-# ---------------------------------------------------------------------
-# Description:   Plot the average of n Bernoulli trials (each taking a 
-#                value of +/- 1, with probability 0.5) to show the law 
-#                of large numbers and the law of the iterated logarithm.
-#                Plot of sample mean (red), its asymptotic standard 
-#                deviation (dark-green) and its bound given by law of iterated
-#                logarithm (blue).
-# --------------------------------------------------------------------- 
-# Inputs:        
-# --------------------------------------------------------------------- 
-# Output:        
-# ---------------------------------------------------------------------  
-# See also:      
-# ---------------------------------------------------------------------
-# Keywords:      bernoulli, plot, random, random-number-generation, 
-#                simulation
-# --------------------------------------------------------------------- 
-# Author:        Chen Huang, Ya Qian
-
 ## clear history
 rm(list = ls(all = TRUE))
 graphics.off()
