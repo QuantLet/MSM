@@ -1,0 +1,23 @@
+Name of QuantLet : MSMcdfnormal
+
+Published in : MSM
+
+Description : 'Simulates data from normal distribution
+and plots its cumulative density function (cdf).'
+
+Keywords : 
+- cdf
+- standard-normal
+- distribution
+- random
+- plot
+
+See also : 
+- MSMpdfnormal
+
+Author : 
+- Xiu Xu, Alla Petukhina, Shi Chen
+
+Submitted : Fri, October 16 2015 by Shi Chen
+
+Output : 'A CDF plot of standard normal distribution.'
