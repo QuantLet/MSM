@@ -19,15 +19,13 @@ Keywords :
 - random
 - plot
 
-See also : 
-- MSMpdfnormal
+See also : MSMpdfnormal
 
-Author : 
-- Xiu Xu, Alla Petukhina, Shi Chen
+Author : Xiu Xu, Alla Petukhina, Shi Chen
 
 Submitted : Fri, October 16 2015 by Shi Chen
 
-Output : 'A CDF plot of standard normal distribution.'
+Output : A CDF plot of standard normal distribution.
 
 ```
 
