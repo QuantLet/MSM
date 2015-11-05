@@ -22,8 +22,7 @@ Keywords :
 - simulation
 - plot
 
-Author : 
-- Chen Huang, Ya Qian
+Author : Chen Huang, Ya Qian [New]
 
 Submitted : Fri, October 16 2015 by Shi Chen
 
