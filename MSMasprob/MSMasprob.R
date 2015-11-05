@@ -1,30 +1,10 @@
-# ------------------------------------------------------------------------------
-# Course:      MSM - Selected Topics of Mathematical Statistics
-# ------------------------------------------------------------------------------
-# Quantlet:    MSMasprob
-# ------------------------------------------------------------------------------
-# Description: Displays an example of which meets the convergence in mean
-#              square but not convergence in almost sure series of the example. 
-#              We select n = 400 and plot three cases: the initial value of 
-#              Z = 0.5 (blue), 0.2 (green), and 0.8 (dark red).
-# ------------------------------------------------------------------------------
-# Output:      Plot of the series of an random variable satisfying convergence 
-#              in mean square but not convergence in almost sure
-# ------------------------------------------------------------------------------
-# Keywords:    random-number-generation, process, plot, dynamic, simulation
-# ------------------------------------------------------------------------------ 
-# See also:    LAWS, clt, MSMpdfmultinormal, MSMpdfmultinormal, 
-#              MSMpdfasymmetric, MSMpdfasymmetric, MSMasprob, SFSmsr1
-# ------------------------------------------------------------------------------
-# Author:      Xiu Xu
-# ------------------------------------------------------------------------------
-
+# clear history
+rm(list = ls(all = TRUE))
 graphics.off()
-rm(list = ls())
 
 n      = 1000
 k      = floor(log(n)/log(2)) - 1
-x      = matrix(, nrow = n, ncol = 10)
+x      = matrix(0, nrow = n, ncol = 10)
 x[1, ] = 1
 
 z = c(0.5, 0.2, 0.4, 0.6, 0.8)
