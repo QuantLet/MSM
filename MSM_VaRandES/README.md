@@ -9,8 +9,7 @@ Name of QuantLet : MSM_VaRandES
 
 Published in : MSM
 
-Description : 'Plots Value at Risk and Expected Shortfall in one figure and 
-shows the relationship between VaR and ES.?
+Description : 'Plots Value at Risk and Expected Shortfall in one figure and shows the relationship between VaR and ES.'
 
 Keywords : 
 - VaR
@@ -20,8 +19,7 @@ Keywords :
 - cdf
 - plot
 
-Author : 
-- Torsten Becker, Viktor Sandor, Chen Huang
+Author : Torsten Becker [New], Viktor Sandor [New], Chen Huang
 
 Submitted : Thu, November 5 2015 by Chen Huang
 
