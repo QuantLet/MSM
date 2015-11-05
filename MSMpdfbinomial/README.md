@@ -36,7 +36,7 @@ Output : Plot of PDF of binomial distribution.
 
 ```
 
-![Picture1](MSMpdfasymmetric.png)
+![Picture1](MSMpdfbinomial.png)
 
 ```R
 # clear history
