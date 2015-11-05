@@ -1,0 +1,21 @@
+Name of QuantLet : MSMpdfnormal
+
+Published in : MSM
+
+Description : 'Simulates data from the standard normal distribution 
+N(0,1) and then plots the PDF function.'
+
+Keywords : 
+- pdf
+- normal-distribution
+- normal
+- standard
+- plot
+
+See also : 
+- MSMcdfnormal
+- MSMpdfbinomial
+
+Author : Xiu Xu
+
+Submitted : Fri, October 16 2015 by Shi Chen
