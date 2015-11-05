@@ -27,8 +27,7 @@ See also :
 - MSMpdfasymmetric
 - SFSmsr1
 
-Author : 
-- Xiu Xu
+Author : Xiu Xu
 
 Submitted : Thu, November 5 2015 by Chen Huang
 
