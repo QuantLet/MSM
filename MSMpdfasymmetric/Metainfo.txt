@@ -1,0 +1,26 @@
+Name of QuantLet : MSMpdfasymmetric
+
+Published in : MSM
+
+Description : 'Plots of left-skewed normal distribution 
+(shape parameter alpha = - 5), symmetric normal and 
+right-skewed normal distribution (shape parameter alpha = 5).'
+
+Keywords : 
+- cdf
+- standard-normal
+- distribution
+- random
+- plot
+
+See also : 
+- MSMasprob
+- SFEbinomv
+- SFEBinomial
+
+Author : Xiu Xu, Shi Chen
+
+Submitted : Fri, October 16 2015 by Shi Chen
+
+Output : 'Plot of left-skewed normal pdf, standard normal pdf, right-skewed
+normal pdf.'
