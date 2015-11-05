@@ -1,0 +1,29 @@
+Name of QuantLet : MSMasprob
+
+Published in : MSM
+
+Description : 'Displays an example of which meets the convergence in 
+mean square but not convergence in almost sure series of the example. 
+We select n = 400 and plot three cases: the initial value of 
+Z = 0.5 (blue), 0.2 (green), and 0.8 (dark red).'
+
+Keywords : 
+- random-number-generation
+- process
+- dynamic
+- simulation
+- plot
+
+See also : 
+- LAWS
+- clt
+- MSMpdfasymmetric
+- SFSmsr1
+
+Author : 
+- Xiu Xu
+
+Submitted : Thu, November 5 2015 by Chen Huang
+
+Output : 'Plot of the series of an random variable satisfying convergence 
+in mean square but not convergence in almost sure.'
