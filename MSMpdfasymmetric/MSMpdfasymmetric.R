@@ -1,31 +1,12 @@
-# ------------------------------------------------------------------------------
-# Course:      MSM - Selected Topics of Mathematical Statistics
-# ------------------------------------------------------------------------------
-# Quantlet:    MSMpdfasymmetric
-# ------------------------------------------------------------------------------
-# Description: Plots of left-skewed normal distribution (shape parameter
-#              alpha = - 5), symmetric normal and right-skewed normal
-#              distribution (shape parameter alpha = 5).
-# ------------------------------------------------------------------------------
-# Output:      Plot of left-skewed normal pdf, standard normal pdf, right-skewed
-#              normal pdf
-# ------------------------------------------------------------------------------
-# Keywords:    pdf, plot, standard, normal-distribution, asymmetric, skewness
-#              left-skewed, right-skewed
-# ------------------------------------------------------------------------------ 
-# See also:    MSMpdfmultinormal, MSMpdfmultinormal, MSMpdfasymmetric,
-#              MSMpdfasymmetric, MSMasprob, SFEbinomv, SFEBinomial
-# ------------------------------------------------------------------------------
-# Author:      Xiu Xu, Shi Chen 20150603
-# ------------------------------------------------------------------------------
-
+# clear history
+rm(list = ls(all = TRUE))
 graphics.off()
-rm(list = ls())
 
 # install and load packages
 libraries = c("sn")
 lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-    install.packages(x)})
+    install.packages(x)
+})
 lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
 par(mfrow = c(1, 3))
