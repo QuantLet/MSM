@@ -7,10 +7,11 @@ Description : 'Plots of left-skewed normal distribution
 right-skewed normal distribution (shape parameter alpha = 5).'
 
 Keywords : 
-- cdf
-- standard-normal
-- distribution
-- random
+- pdf
+- standard
+- normal-distribution
+- asymmetric
+- skewness
 - plot
 
 See also : 
