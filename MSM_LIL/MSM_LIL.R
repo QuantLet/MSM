@@ -8,7 +8,7 @@ m  = 0
 N1 = 0
 N2 = 0
 
-for (n in 1:1e+05) {
+for (n in 1:1e+04) {
     ## Simulate the paths of Bernoulli Distribution
     y  = c(y, (1 + (-1 - 1) * (runif(1) < 0.5)))  
     ## Calculate the sample mean
@@ -29,7 +29,7 @@ par(cex.lab = 1.5, cex.axis = 1.5, cex.main = 1.5, pch = 20)
 plot(m, ylim = c(-0.2, 0.2), type = "p", col = "red", main = "Law 
      of the Iterated Logarithm", xlab = "Sample Size", ylab = 
      "Deviation from Mean", cex = 0.5, bty = "n")
-legend(50000, 0.2, c("sqrt(1/n)", "sqrt(2 * log(log(n)) / n)"), 
+legend(5000, 0.2, c("sqrt(1/n)", "sqrt(2 * log(log(n)) / n)"), 
        lty = c(1, 1), col = c("dark green", "blue"), box.col = 
        "white", pt.cex = 1.5 )
 
