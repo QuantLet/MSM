@@ -1,3 +1,4 @@
+
 Name of QuantLet : MSMasprob
 
 Published in : MSM
@@ -24,5 +25,5 @@ Author : Xiu Xu
 
 Submitted : Thu, November 5 2015 by Chen Huang
 
-Output : 'Plot of the series of an random variable satisfying convergence 
+Example : 'Plot of the series of a random variable satisfying convergence 
 in mean square but not convergence in almost sure.'

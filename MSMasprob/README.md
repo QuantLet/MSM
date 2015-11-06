@@ -5,6 +5,7 @@
 
 
 ```yaml
+
 Name of QuantLet : MSMasprob
 
 Published in : MSM
@@ -31,14 +32,17 @@ Author : Xiu Xu
 
 Submitted : Thu, November 5 2015 by Chen Huang
 
-Output : 'Plot of the series of an random variable satisfying convergence 
+Example : 'Plot of the series of a random variable satisfying convergence 
 in mean square but not convergence in almost sure.'
 
 ```
 
+
 ![Picture1](MSMasprob.png)
 
+
 ```R
+
 # clear history
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -65,3 +69,4 @@ plot(x[1:400, 1], col = "blue", type = "p", pch = 20, lwd = 3,
   ylim = c(-0.05, 1.1), ylab = "", xlab = "", cex.lab = 2, cex.axis = 2)
 points(x[1:400, 2], col = "darkolivegreen4", type = "p", pch = 20, lwd = 3)
 points(x[1:400, 5], col = "red3", type = "p", pch = 20, lwd = 3) 
+```
