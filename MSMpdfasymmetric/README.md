@@ -5,6 +5,7 @@
 
 
 ```yaml
+
 Name of QuantLet : MSMpdfasymmetric
 
 Published in : MSM
@@ -30,14 +31,17 @@ Author : Xiu Xu, Shi Chen
 
 Submitted : Fri, October 16 2015 by Shi Chen
 
-Output : 'Plot of left-skewed normal pdf, standard normal pdf, right-skewed
+Example : 'Plot of left-skewed normal pdf, standard normal pdf, right-skewed
 normal pdf.'
 
 ```
 
+
 ![Picture1](MSMpdfasymmetric.png)
 
+
 ```R
+
 # clear history
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -54,14 +58,16 @@ x1 = seq(-3, 1, 0.001)
 x2 = seq(-2, 2, 0.001)
 x3 = seq(-1, 3, 0.001)
 
-plot(x1, dsn(x1, xi = 0, omega = 1, alpha = -5, log = FALSE), type = "l", 
-    lwd = 2.5, ylab = "PDF", xlab = "X", col = "chocolate3", ylim = c(0, 0.9))
+plot(x1, dsn(x1, xi = 0, omega = 1, alpha = -5, log = FALSE), type = "l", lwd = 2.5, 
+    ylab = "PDF", xlab = "X", col = "chocolate3", ylim = c(0, 0.9))
 abline(v = median(rsn(x1, xi = 0, omega = 1, alpha = -5)))
 
-plot(x2, dsn(x2, xi = 0, omega = 0.55, alpha = 0, log = FALSE), type = "l", 
-    lwd = 2.5, ylab = "", xlab = "X", col = "chartreuse4", ylim = c(0, 0.9))
+plot(x2, dsn(x2, xi = 0, omega = 0.55, alpha = 0, log = FALSE), type = "l", lwd = 2.5, 
+    ylab = "", xlab = "X", col = "chartreuse4", ylim = c(0, 0.9))
 abline(v = median(rsn(x2, xi = 0, omega = 0.55, alpha = 0)))
 
-plot(x3, dsn(x3, xi = 0, omega = 1, alpha = 5, log = FALSE), type = "l", 
-    lwd = 2.5, ylab = "", xlab = "X", col = "blue3", ylim = c(0, 0.9))
-abline(v = median(rsn(x3, xi = 0, omega = 1, alpha = 5)))
+plot(x3, dsn(x3, xi = 0, omega = 1, alpha = 5, log = FALSE), type = "l", lwd = 2.5, 
+    ylab = "", xlab = "X", col = "blue3", ylim = c(0, 0.9))
+abline(v = median(rsn(x3, xi = 0, omega = 1, alpha = 5))) 
+
+```
