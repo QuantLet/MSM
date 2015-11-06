@@ -1,3 +1,4 @@
+
 ## clear history
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -38,5 +39,3 @@ lines(N1,  lty = 1, lwd = 2, col = "dark green")
 lines(-N1, lty = 1, lwd = 2, col = "dark green")
 lines(N2,  lty = 1, lwd = 2, col = "blue")
 lines(-N2, lty = 1, lwd = 2, col = "blue")
-
- 

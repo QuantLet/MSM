@@ -1,3 +1,4 @@
+
 Name of QuantLet : MSM_LIL
 
 Published in : MSM
@@ -16,6 +17,8 @@ Keywords :
 - simulation
 - plot
 
-Author : Chen Huang, Ya Qian [New]
+Author : Chen Huang
+
+Author [New] : Ya Qian
 
 Submitted : Fri, October 16 2015 by Shi Chen

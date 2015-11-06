@@ -5,15 +5,17 @@
 
 
 ```yaml
+
 Name of QuantLet : MSM_LIL
 
 Published in : MSM
 
 Description : 'Plots the average of n Bernoulli trials (each taking a 
-value of +/- 1, with probability 0.5) to show the law of large numbers 
-and the law of the iterated logarithm. Plots of sample mean (red), 
-its asymptotic standard deviation (dark-green) and its bound given 
-by law of iterated logarithm (blue).'
+               value of +/- 1, with probability 0.5) to show the law 
+               of large numbers and the law of the iterated logarithm.
+               Plots of sample mean (red), its asymptotic standard 
+               deviation (dark-green) and its bound given by law of iterated
+               logarithm (blue).'
 
 Keywords : 
 - bernoulli
@@ -22,13 +24,18 @@ Keywords :
 - simulation
 - plot
 
-Author : Chen Huang, Ya Qian [New]
+Author : Chen Huang
+
+Author [New] : Ya Qian
 
 Submitted : Fri, October 16 2015 by Shi Chen
 
+
 ```
 
+
 ![Picture1](MSM_LIL.png)
+
 
 ```R
 ## clear history
@@ -71,3 +78,4 @@ lines(N1,  lty = 1, lwd = 2, col = "dark green")
 lines(-N1, lty = 1, lwd = 2, col = "dark green")
 lines(N2,  lty = 1, lwd = 2, col = "blue")
 lines(-N2, lty = 1, lwd = 2, col = "blue")
+```
