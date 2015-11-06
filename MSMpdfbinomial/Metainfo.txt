@@ -1,3 +1,4 @@
+
 Name of QuantLet : MSMpdfbinomial
 
 Published in : MSM
@@ -25,4 +26,4 @@ Author : Xiu Xu
 
 Submitted : Thu, November 5 2015 by Chen Huang
 
-Output : Plot of PDF of binomial distribution.
+Example : Plot of the PDF of binomial distribution.

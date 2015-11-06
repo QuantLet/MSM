@@ -5,6 +5,7 @@
 
 
 ```yaml
+
 Name of QuantLet : MSMpdfbinomial
 
 Published in : MSM
@@ -32,13 +33,16 @@ Author : Xiu Xu
 
 Submitted : Thu, November 5 2015 by Chen Huang
 
-Output : Plot of PDF of binomial distribution.
+Example : Plot of the PDF of binomial distribution.
 
 ```
 
+
 ![Picture1](MSMpdfbinomial.png)
 
+
 ```R
+
 # clear history
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -50,9 +54,9 @@ y3 = dbinom(0:20, 20, 0.8)
 
 plot(y1, col = "blue", type = "h", lwd = 2.5, ylab = "", xlab = "")
 points(y1, col = "blue", type = "p", pch = 20, lwd = 0.1, ylim = c(0, 0.3))
-
 lines(y2, col = "darkolivegreen4", type = "h", lwd = 2.5, ylab = "", xlab = "")
 points(y2, col = "darkolivegreen4", type = "p", pch = 20, lwd = 0.1, ylim = c(0, 
     0.3))
 lines(y3, col = "chocolate4", type = "h", lwd = 2.5, ylab = "", xlab = "")
 points(y3, col = "chocolate4", type = "p", pch = 20, lwd = 0.1, ylim = c(0, 0.3)) 
+```
