@@ -5,6 +5,7 @@
 
 
 ```yaml
+
 Name of QuantLet : MSMLLN
 
 Published in : MSM
@@ -31,13 +32,16 @@ Author : Xiu Xu
 
 Submitted : Thu, November 5 2015 by Chen Huang
 
-Output : Plot of points presenting law of large numbers.
+Example : Plot of points presenting law of large numbers.
 
 ```
 
+
 ![Picture1](MSMLLN.png)
 
+
 ```R
+
 # clear history
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -54,4 +58,4 @@ for (i in 1:n) {
 # Plot
 plot(x, col = "red3", type = "p", pch = 20, lwd = 2.5, ylab = "", xlab = "")
 abline(h = 0, col = "blue", pch = 20, lwd = 3.5)
-dev.off() 
+```

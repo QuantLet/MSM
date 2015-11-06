@@ -1,3 +1,4 @@
+
 Name of QuantLet : MSMLLN
 
 Published in : MSM
@@ -24,4 +25,4 @@ Author : Xiu Xu
 
 Submitted : Thu, November 5 2015 by Chen Huang
 
-Output : Plot of points presenting law of large numbers.
+Example : Plot of points presenting law of large numbers.
