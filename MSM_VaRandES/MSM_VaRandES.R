@@ -1,3 +1,4 @@
+
 # clear all variables
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -5,6 +6,7 @@ graphics.off()
 dlognormalLoss = function(x) {
   dlnorm(x, 0.5, 0.3)  # the density function
 }
+
 plognormalLoss = function(x) {
   plnorm(x, 0.5, 0.3)  # the distribution function 
 }

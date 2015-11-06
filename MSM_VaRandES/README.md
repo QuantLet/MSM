@@ -5,11 +5,12 @@
 
 
 ```yaml
+
 Name of QuantLet : MSM_VaRandES
 
 Published in : MSM
 
-Description : 'Plots Value at Risk and Expected Shortfall in one figure and shows the relationship between VaR and ES.'
+Description : Plots Value at Risk and Expected Shortfall in one figure and shows the relationship between VaR and ES.
 
 Keywords : 
 - VaR
@@ -19,15 +20,20 @@ Keywords :
 - cdf
 - plot
 
-Author : Torsten Becker [New], Viktor Sandor [New], Chen Huang
+Author : Chen Huang
+
+Author [New] : Torsten Becker, Viktor Sandor
 
 Submitted : Thu, November 5 2015 by Chen Huang
 
 ```
 
+
 ![Picture1](MSM_VaRandES.png)
 
+
 ```R
+
 # clear all variables
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -35,6 +41,7 @@ graphics.off()
 dlognormalLoss = function(x) {
   dlnorm(x, 0.5, 0.3)  # the density function
 }
+
 plognormalLoss = function(x) {
   plnorm(x, 0.5, 0.3)  # the distribution function 
 }
@@ -68,3 +75,4 @@ segments(2.42, -0.25, 2.42, 0.9)
 segments(-0.4, 0.9, 2.42, 0.9)
 
 legend(x = 2.5, y = 0.5, c("PDF", "CDF"), lty = c(2, 1)) 
+```
