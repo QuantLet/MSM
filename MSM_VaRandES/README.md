@@ -10,7 +10,8 @@ Name of QuantLet : MSM_VaRandES
 
 Published in : MSM
 
-Description : Plots Value at Risk and Expected Shortfall in one figure and shows the relationship between VaR and ES.
+Description : 'Plots Value at Risk and Expected Shortfall in one figure 
+and shows the relationship between VaR and ES.'
 
 Keywords : 
 - VaR
