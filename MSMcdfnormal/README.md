@@ -5,6 +5,7 @@
 
 
 ```yaml
+
 Name of QuantLet : MSMcdfnormal
 
 Published in : MSM
@@ -25,13 +26,16 @@ Author : Xiu Xu, Alla Petukhina, Shi Chen
 
 Submitted : Fri, October 16 2015 by Shi Chen
 
-Output : A CDF plot of standard normal distribution.
+Example : A CDF plot of standard normal distribution.
 
 ```
 
+
 ![Picture1](MSMcdfnormal.png)
 
+
 ```R
+
 # clear history
 rm(list = ls(all = TRUE))
 graphics.off()
@@ -40,3 +44,5 @@ graphics.off()
 plot(seq(-4, 4, 0.2), pnorm(seq(-4, 4, 0.2), 0, 1), col = "blue", type = "l", lwd = 2.5, 
     ylab = "CDF", xlab = "X")
 abline(v = 0) 
+
+```
