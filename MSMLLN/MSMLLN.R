@@ -3,9 +3,10 @@
 rm(list = ls(all = TRUE))
 graphics.off()
 
-set.seed(80)
 n = 1000
-y = rnorm(n, 0, 1)
+mu = 0
+sig = 1
+y = rnorm(n, mu, sig)
 x = matrix(0, nrow = n, ncol = 1)
 
 for (i in 1:n) {
