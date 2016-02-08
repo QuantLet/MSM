@@ -1,0 +1,14 @@
+Name of QuantLet : MSMasymmetricnormal
+
+Published in :     MSM
+
+Description :      'Plots the density of right and left skewed asymmetric normal
+                   distributions.'
+
+Keywords :         asymmetric, standard-normal, skewness, pdf, histogram
+
+Author [New]:      Luis Alejandro Sarmiento Abogado
+
+Submitted :        Mon, February 08 2016 by Chen Huang
+
+

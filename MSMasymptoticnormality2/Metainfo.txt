@@ -1,0 +1,20 @@
+Name of QuantLet : MSMasymptoticnormality2
+
+Published in :     MSM
+
+Description :      ‘Shows an example of random variables not following asymptotic 
+                   normality. For this specific example a set of Cauchy random variables   
+                   was selected and its asymptotic distribution was compared with binomial 
+                   and normal distributions.'
+
+Keywords : 
+- standard-normal
+- asymptotic
+- graphical representation
+- pdf
+- Cauchy,distribution
+- binomial
+
+Author [New]:      Luis Alejandro Sarmiento Abogado
+
+Submitted :        Mon, February 08 2016 by Chen Huang
