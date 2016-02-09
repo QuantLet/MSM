@@ -1,0 +1,24 @@
+
+Name of QuantLet : MSMedgeworth
+
+Published in : MSM
+
+Description : 'Calculate the normal and edgeworth approximations of the normalized 
+sample of size 5 from an exponential pdf.'
+
+Keywords : 
+- normal
+- distribution
+- normal-distribution
+- normal approximation
+- parameter
+- exponential
+
+See also : 
+- MSMpdfasymmetric
+- MSMasprob
+
+Author : Xiu Xu
+
+Submitted : Mon, Feb 1 2016 by Xiu Xu
+
