@@ -24,6 +24,6 @@ See also :
 
 Author : Xiu Xu
 
-Submitted : Thu, November 5 2015 by Chen Huang
+Submitted : Wed, January 16, 2019, Daniel Jacob
 
 Example : Plot of the PDF of binomial distribution.
