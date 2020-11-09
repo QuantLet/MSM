@@ -1,0 +1,23 @@
+Name of QuantLet : MSMpdfmultinormal
+
+Published in : MSM
+
+Description : "Simulates data from a multivariate normal distribution, estimates the PDF by kernel density estimate and plots the result."
+
+Keywords : 
+- pdf
+- normal-distribution
+- normal
+- multivariate normal
+- multinormal
+- Kernel density
+- plot
+
+See also : 
+- MSMcdfnormal
+- MSMpdfbinomial
+- MSMpdfnormal
+
+Author : Xiu Xu
+
+Submitted : Monday, November 9 2020 by Lucas Umann
