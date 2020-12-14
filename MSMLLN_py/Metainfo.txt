@@ -1,0 +1,28 @@
+
+Name of QuantLet : MSMLLN
+
+Published in : MSM
+
+Description : 'Plots the points showing law of large numbers.
+As the sample size becomes larger, the sample mean converges to
+the theoretical (true) mean of the distribution.'
+
+Keywords :
+- pdf
+- normal
+- distribution
+- mean
+- plot
+- parameter
+- visualization
+- discrete
+
+See also :
+- MSMpdfasymmetric
+- MSMasprob
+
+Author : Jacek Wiland
+
+Submitted : Mon, December 14 2020 by Jacek Wiland
+
+Example : Plot of points presenting law of large numbers.
