@@ -21,8 +21,10 @@ See also :
 - MSMpdfasymmetric
 - MSMasprob
 
-Author : Xiu Xu
+Author[R] : Xiu Xu
+Author[Python] : Jacek Wiland
 
-Submitted : Thu, November 5 2015 by Chen Huang
+Submitted[R] : Thu, November 5 2015 by Chen Huang
+Submitted[Python]: Tue, December 15 2020 by Jacek Wiland
 
 Example : Plot of points presenting law of large numbers.
