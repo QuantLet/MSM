@@ -15,8 +15,10 @@ Keywords :
 
 See also : MSMpdfnormal
 
-Author : Xiu Xu, Alla Petukhina, Shi Chen
+Author : Xiu Xu, Alla Petukhina, Shi Chen, Rahul Tak
 
 Submitted : Fri, October 16 2015 by Shi Chen
+
+updated : Fri, June 13 2015 by Rahul Tak
 
 Example : A CDF plot of standard normal distribution.
