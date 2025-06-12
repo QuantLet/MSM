@@ -20,9 +20,11 @@ See also :
 - SFEbinomv
 - SFEBinomial
 
-Author : Xiu Xu, Shi Chen
+Author : Xiu Xu, Shi Chen, Rahul Tak
 
 Submitted : Fri, October 16 2015 by Shi Chen
+
+updated : Fri, June 13 2025 by Rahul Tak
 
 Example : 'Plot of left-skewed normal pdf, standard normal pdf, right-skewed
 normal pdf.'
