@@ -13,7 +13,7 @@ Keywords :
 - cdf
 - plot
 
-Author : Chen Huang
+Author : Chen Huang, Fulvio Raddi
 
 Author [New] : Torsten Becker, Viktor Sandor
 
