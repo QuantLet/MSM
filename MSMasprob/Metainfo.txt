@@ -3,10 +3,7 @@ Name of QuantLet : MSMasprob
 
 Published in : MSM
 
-Description : 'Displays an example of which meets the convergence in 
-mean square but not convergence in almost sure series of the example. 
-We select n = 400 and plot three cases: the initial value of 
-Z = 0.5 (blue), 0.2 (green), and 0.8 (dark red).'
+Description : 'Displays an example of which meets the convergence in mean square but not convergence in almost sure series of the example. We select n = 400 and plot three cases: the initial value of Z = 0.5 (blue), 0.2 (green), and 0.8 (dark red).'
 
 Keywords : 
 - random-number-generation
@@ -21,11 +18,8 @@ See also :
 - MSMpdfasymmetric
 - SFSmsr1
 
-Author[R] : Xiu Xu
-Author[Python] : Jacek Wiland
+Author: Xiu Xu, Jacek Wiland
 
-Submitted[R] : Thu, November 5 2015 by Chen Huang
-Submitted[Python] : Tue, December 15 2020 by Jacek Wiland
+Submitted :  December 15 2020
 
-Example : 'Plot of the series of a random variable satisfying convergence 
-in mean square but not convergence in almost sure.'
+Example : 'Plot of the series of a random variable satisfying convergence in mean square but not convergence in almost sure.'
