@@ -9,7 +9,7 @@ Name of QuantLet: MSMpdfasymmetric
 
 Published in: MSM
 
-Description: Plots of left-skewed normal distribution
+Description: Plots of left-skewed normal distribution (shape parameter alpha = - 5), symmetric normal and right-skewed normal distribution (shape parameter alpha = 5).
 
 Keywords: 
 - pdf
@@ -24,11 +24,13 @@ See also:
 - SFEbinomv
 - SFEBinomial
 
-Author: Xiu Xu, Shi Chen
+Author: Xiu Xu, Shi Chen, Rahul Tak
 
 Submitted: Fri, October 16 2015 by Shi Chen
 
-Example: Plot of left-skewed normal pdf, standard normal pdf, right-skewed
+updated: Fri, June 13 2025 by Rahul Tak
+
+Example: Plot of left-skewed normal pdf, standard normal pdf, right-skewed normal pdf.
 
 ```
 <div align="center">
