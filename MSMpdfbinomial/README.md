@@ -9,7 +9,7 @@ Name of QuantLet: MSMpdfbinomial
 
 Published in: MSM
 
-Description: Plots three PDFs of the Binomial distribution with
+Description: Plots three PDFs of the Binomial distribution with different probabilities of success (p) in each trial. The number of trials is set to 20. The line colours correspond to p = 0.1 (blue), p = 0.5 (green) and p = 0.8 (dark red).
 
 Keywords: 
 - pdf
