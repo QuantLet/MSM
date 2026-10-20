@@ -9,7 +9,7 @@ Name of QuantLet: MSMasymptoticnormality1
 
 Published in: MSM
 
-Description: Transforms a random variable with a given mean and
+Description: Transforms a random variable with a given mean and variance to an asymptotic standard normal distribution.
 
 Keywords: standard-normal, asymptotic, graphical representation, pdf, random
 
