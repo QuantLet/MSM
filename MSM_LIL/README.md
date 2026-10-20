@@ -9,7 +9,7 @@ Name of QuantLet: MSM_LIL
 
 Published in: MSM
 
-Description: Plots the average of n Bernoulli trials (each taking a
+Description: Plots the average of n Bernoulli trials (each taking a value of +/- 1, with probability 0.5) to show the law of large numbers and the law of the iterated logarithm. Plots of sample mean (red), its asymptotic standard deviation (dark-green) and its bound given by law of iterated logarithm (blue).
 
 Keywords: 
 - bernoulli
