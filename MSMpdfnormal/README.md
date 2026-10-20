@@ -9,7 +9,7 @@ Name of QuantLet: MSMpdfnormal
 
 Published in: MSM
 
-Description: Simulates data from the standard normal distribution
+Description: Simulates data from the standard normal distribution N(0,1) and then plots the PDF function.
 
 Keywords: 
 - pdf
