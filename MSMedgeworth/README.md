@@ -9,7 +9,7 @@ Name of QuantLet: MSMedgeworth
 
 Published in: MSM
 
-Description: Calculate the normal and edgeworth approximations
+Description: Calculate the normal and edgeworth approximations of the normalized sample of size 5 from an exponential pdf.
 
 Keywords: 
 - normal
@@ -23,9 +23,11 @@ See also:
 - MSMpdfasymmetric
 - MSMasprob
 
-Author: Xiu Xu
+Author: Xiu Xu, Rahul Tak
 
 Submitted: Mon, Feb 1 2016 by Xiu Xu
+
+Updated: Fri, June 13 2025 by Rahul Tak
 
 ```
 <div align="center">
