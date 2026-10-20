@@ -9,7 +9,7 @@ Name of QuantLet: MSMcdfnormal
 
 Published in: MSM
 
-Description: Simulates data from normal distribution
+Description: Simulates data from normal distribution and plots its cumulative density function (cdf).
 
 Keywords: 
 - cdf
@@ -20,9 +20,11 @@ Keywords:
 
 See also: MSMpdfnormal
 
-Author: Xiu Xu, Alla Petukhina, Shi Chen
+Author: Xiu Xu, Alla Petukhina, Shi Chen, Rahul Tak
 
 Submitted: Fri, October 16 2015 by Shi Chen
+
+updated: Fri, June 13 2015 by Rahul Tak
 
 Example: A CDF plot of standard normal distribution.
 
